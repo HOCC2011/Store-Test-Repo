@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <List>
     <App>
-        <Name>Forget</Name>
-        <Version>1.6.5</Version>
-        <SysVersion>10</SysVersion>
+        <Name>iClass</Name>
+        <Version>0.0.1</Version>
+        <SysVersion>29</SysVersion>
     </App>
+
 </List>
