@@ -2,8 +2,10 @@
 <List>
     <App>
         <Name>iClass</Name>
+        <PackageName>com.fun.iClass</PackageName>
         <Version>0.0.1</Version>
         <SysVersion>29</SysVersion>
     </App>
 
 </List>
+
