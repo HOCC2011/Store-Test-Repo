@@ -5,8 +5,10 @@
         <PackageName>com.fun.iClass</PackageName>
         <Version>1.0</Version>
         <SysVersion>29</SysVersion>
+        <Developer>iClass</Developer>
     </App>
 
 </List>
+
 
 
