@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<List>
+<Repository>
+    <RepoName>Test</RepoName>
     <App>
         <Name>iClass</Name>
         <PackageName>com.fun.iClass</PackageName>
@@ -7,8 +8,8 @@
         <SysVersion>29</SysVersion>
         <Developer>iClass</Developer>
     </App>
+</Repository>
 
-</List>
 
 
 
