@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Repository>
     <RepoName>Test</RepoName>
-    <App>
-        <Name>iClass</Name>
-        <PackageName>com.fun.iClass</PackageName>
-        <Version>1.0</Version>
-        <SysVersion>29</SysVersion>
-        <Developer>iClass</Developer>
-    </App>
 </Repository>
+
 
 
 
